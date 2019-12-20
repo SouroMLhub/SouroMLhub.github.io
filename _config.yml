@@ -112,6 +112,7 @@ author:
   bio              : "Artificial Intelligence and Data Science Enthusiast and Blockchain & Crypto Fanatic"
   location         : "India"
   email            :
+  linkedin         : "sourodip-kundu-b79706127"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -128,7 +129,7 @@ author:
     - label: "SouroMLhub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/SouroMLhub"
-    - label: "Instagram"
+    - label: "Sourodip Kundu"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
